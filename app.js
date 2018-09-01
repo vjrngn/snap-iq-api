@@ -7,10 +7,13 @@ var cors = require("cors");
 var mongoose = require("mongoose");
 var passport = require("./config/passport");
 
-const { HOST = "localhost", PORT = 27017 } = process.env;
+// Setup environment variables
+require("dotenv").config();
+
+const { DATABASE_HOST = "localhost", DATABASE_PORT = 27017 } = process.env;
 
 mongoose.connect(
-  `mongodb://${HOST}:${PORT}/snap-iq-api`,
+  `mongodb://${DATABASE_HOST}:${DATABASE_PORT}/snap-iq-api`,
   function(error) {
     if (!error) {
       console.log("Successfully connected to monogoDb.");
