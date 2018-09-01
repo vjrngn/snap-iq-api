@@ -9,11 +9,11 @@ router.post("/", function(req, res) {
   const confirmation = req.body.confirmation;
 
   if (password.trim() === "") {
-    return req.json({ message: "Password field cannot be empty" });
+    return res.json({ message: "Password field cannot be empty" });
   }
 
   if (password !== confirmation) {
-    return req.json({ message: "Password does not match confirmation" });
+    return res.json({ message: "Password does not match confirmation" });
   } else {
     User.create(
       {
@@ -26,7 +26,7 @@ router.post("/", function(req, res) {
             message: "Error. Please check your username or password"
           });
         }
-        res.json({ user: user });
+        res.json({ success : true });
       }
     );
   }
