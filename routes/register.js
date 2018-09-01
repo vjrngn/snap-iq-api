@@ -4,29 +4,29 @@ const bcrypt = require("bcrypt");
 const User = require("../models/User");
 
 router.post("/", function(req, res) {
-  console.log('Here')
   const email = req.body.email;
   const password = req.body.password;
   const confirmation = req.body.confirmation;
 
-  console.log(email,password,confirmation)
   if (password.trim() === "") {
-    return req.json({message : "Password field cannot be empty"});
+    return req.json({ message: "Password field cannot be empty" });
   }
 
   if (password !== confirmation) {
-    return req.json({message: "Password does not match confirmation"});
+    return req.json({ message: "Password does not match confirmation" });
   } else {
     User.create(
       {
         email: email,
-        password: bcrypt.hashSync(password, 10),
+        password: bcrypt.hashSync(password, 10)
       },
       function(error, user) {
         if (error) {
-          res.json({message: "Error. Please check your username or password"});
+          res.json({
+            message: "Error. Please check your username or password"
+          });
         }
-        res.json({ user : user});
+        res.json({ user: user });
       }
     );
   }
