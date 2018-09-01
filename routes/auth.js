@@ -20,7 +20,7 @@ router.post("/login", function(req, res, next) {
       });
     }
     const claim = { id: user.id, email: user.email };
-    const token = jwt.sign({ user: claim }, "12345");
+    const token = jwt.sign({ user: claim }, process.env.JWT_SECRET);
     return res.json({ token });
   });
 });
