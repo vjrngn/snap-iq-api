@@ -5,10 +5,10 @@ var cookieParser = require("cookie-parser");
 var logger = require("morgan");
 var cors = require("cors");
 var mongoose = require("mongoose");
-var passport = require("./config/passport");
-
 // Setup environment variables
 require("dotenv").config();
+var passport = require("./config/passport");
+var Quiz = require('./models/Quiz')
 
 const { DATABASE_HOST = "localhost", DATABASE_PORT = 27017 } = process.env;
 
@@ -41,6 +41,11 @@ app.use(passport.initialize());
 app.use("/users", usersRouter);
 app.use("/auth", authRouter);
 app.use("/register", registerRouter);
+app.get('/quizzes',function(req,res){
+  Quiz.find({},function(err,quizzes){
+    res.json({ quizzes : quizzes})
+  })
+})
 app.use("/", passport.authenticate("jwt", { session: false }), indexRouter);
 
 // catch 404 and forward to error handler
