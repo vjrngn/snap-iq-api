@@ -21,7 +21,6 @@ mongoose.connect(
 );
 
 var indexRouter = require("./routes/index");
-// var usersRouter = require("./routes/users");
 var authRouter = require("./routes/auth");
 var registerRouter = require("./routes/register");
 
@@ -37,7 +36,6 @@ app.use(express.static(path.join(__dirname, "public")));
 app.use(cors());
 app.use(passport.initialize());
 
-// app.use("/users", usersRouter);
 app.use("/auth", authRouter);
 app.use("/register", registerRouter);
 app.use("/", passport.authenticate("jwt", { session: false }), indexRouter);
