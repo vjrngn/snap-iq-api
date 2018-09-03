@@ -8,7 +8,6 @@ var mongoose = require("mongoose");
 // Setup environment variables
 require("dotenv").config();
 var passport = require("./config/passport");
-var Quiz = require('./models/Quiz')
 
 const { DATABASE_HOST = "localhost", DATABASE_PORT = 27017 } = process.env;
 
@@ -22,7 +21,7 @@ mongoose.connect(
 );
 
 var indexRouter = require("./routes/index");
-var usersRouter = require("./routes/users");
+// var usersRouter = require("./routes/users");
 var authRouter = require("./routes/auth");
 var registerRouter = require("./routes/register");
 
@@ -38,14 +37,9 @@ app.use(express.static(path.join(__dirname, "public")));
 app.use(cors());
 app.use(passport.initialize());
 
-app.use("/users", usersRouter);
+// app.use("/users", usersRouter);
 app.use("/auth", authRouter);
 app.use("/register", registerRouter);
-app.get('/quizzes',function(req,res){
-  Quiz.find({},function(err,quizzes){
-    res.json({ quizzes : quizzes})
-  })
-})
 app.use("/", passport.authenticate("jwt", { session: false }), indexRouter);
 
 // catch 404 and forward to error handler
