@@ -5,10 +5,9 @@ var cookieParser = require("cookie-parser");
 var logger = require("morgan");
 var cors = require("cors");
 var mongoose = require("mongoose");
-var passport = require("./config/passport");
-
 // Setup environment variables
 require("dotenv").config();
+var passport = require("./config/passport");
 
 const { DATABASE_HOST = "localhost", DATABASE_PORT = 27017 } = process.env;
 
@@ -22,7 +21,7 @@ mongoose.connect(
 );
 
 var indexRouter = require("./routes/index");
-var usersRouter = require("./routes/users");
+// var usersRouter = require("./routes/users");
 var authRouter = require("./routes/auth");
 var registerRouter = require("./routes/register");
 
@@ -38,7 +37,7 @@ app.use(express.static(path.join(__dirname, "public")));
 app.use(cors());
 app.use(passport.initialize());
 
-app.use("/users", usersRouter);
+// app.use("/users", usersRouter);
 app.use("/auth", authRouter);
 app.use("/register", registerRouter);
 app.use("/", passport.authenticate("jwt", { session: false }), indexRouter);
