@@ -4,4 +4,6 @@ dotenv.config({
   path: ".env.testing",
 });
 
-module.exports = {};
+module.exports = {
+  testEnvironment: "node",
+};

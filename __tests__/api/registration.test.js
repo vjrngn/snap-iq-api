@@ -3,14 +3,16 @@ const app = require("../../app");
 const User = require("../../models/User");
 const mongoose = require("mongoose");
 
-afterAll(done => {
-  mongoose.connection.db.dropDatabase();
-  done();
-});
-
 describe("user registration", () => {
+  afterAll(done => {
+    mongoose.connection.db.dropDatabase().then(err => {
+      mongoose.connection.close();
+      done();
+    });
+  });
+
   test("it registers a new user", done => {
-    return request(app)
+    request(app)
       .post("/register")
       .send({
         email: "john@example.com",
