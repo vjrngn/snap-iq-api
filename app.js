@@ -1,18 +1,18 @@
-var createError = require("http-errors");
-var express = require("express");
-var path = require("path");
-var cookieParser = require("cookie-parser");
-var logger = require("morgan");
-var cors = require("cors");
-var mongoose = require("mongoose");
 // Setup environment variables
 require("dotenv").config();
-var passport = require("./config/passport");
 
-const { DATABASE_HOST = "localhost", DATABASE_PORT = 27017 } = process.env;
+const createError = require("http-errors");
+const express = require("express");
+const path = require("path");
+const cookieParser = require("cookie-parser");
+const logger = require("morgan");
+const cors = require("cors");
+const mongoose = require("mongoose");
+const passport = require("./config/passport");
+const { host, port, collection } = require("./config/database");
 
 mongoose.connect(
-  `mongodb://${DATABASE_HOST}:${DATABASE_PORT}/snap-iq-api`,
+  `mongodb://${host}:${port}/${collection}`,
   function(error) {
     if (!error) {
       console.log("Successfully connected to monogoDb.");
@@ -20,11 +20,11 @@ mongoose.connect(
   }
 );
 
-var indexRouter = require("./routes/index");
-var authRouter = require("./routes/auth");
-var registerRouter = require("./routes/register");
+const indexRouter = require("./routes/index");
+const authRouter = require("./routes/auth");
+const registerRouter = require("./routes/register");
 
-var app = express();
+const app = express();
 
 // view engine setup
 
