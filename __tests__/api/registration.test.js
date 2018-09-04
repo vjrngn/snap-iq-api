@@ -1,0 +1,30 @@
+const request = require("supertest");
+const app = require("../../app");
+const User = require("../../models/User");
+const mongoose = require("mongoose");
+
+afterAll(done => {
+  mongoose.connection.db.dropDatabase();
+  done();
+});
+
+describe("user registration", () => {
+  test("it registers a new user", done => {
+    return request(app)
+      .post("/register")
+      .send({
+        email: "john@example.com",
+        password: "12345",
+        confirmation: "12345",
+      })
+      .then(response => response.body)
+      .then(body => {
+        expect(body.success).toBe(true);
+        User.find({}, (err, users) => {
+          expect(users.length).toBe(1);
+
+          done();
+        });
+      });
+  });
+});
