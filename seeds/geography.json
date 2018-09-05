@@ -1,0 +1,362 @@
+[
+    {
+        "category": "Geography",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "On%20a%20London%20Underground%20map%2C%20what%20colour%20is%20the%20Circle%20Line%3F",
+        "correct_answer": "Yellow",
+        "incorrect_answers": [
+            "Red",
+            "Blue",
+            "Green"
+        ]
+    },
+    {
+        "category": "Geography",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "Which%20country%20inside%20the%20United%20Kingdom%20does%20NOT%20appear%20on%20its%20flag%2C%20the%20Union%20Jack%3F",
+        "correct_answer": "Wales",
+        "incorrect_answers": [
+            "Scotland",
+            "Ireland",
+            "Isle%20of%20Wight"
+        ]
+    },
+    {
+        "category": "Geography",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "Which%20of%20these%20countries%20is%20%22doubly%20landlocked%22%20%28surrounded%20entirely%20by%20one%20or%20more%20landlocked%20countries%29%3F",
+        "correct_answer": "Uzbekistan",
+        "incorrect_answers": [
+            "Switzerland",
+            "Bolivia",
+            "Ethiopia"
+        ]
+    },
+    {
+        "category": "Geography",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "Which%20of%20these%20is%20NOT%20a%20city%20in%20Saudi%20Arabia%3F",
+        "correct_answer": "Dubai",
+        "incorrect_answers": [
+            "Riyadh",
+            "Mecca",
+            "Medina"
+        ]
+    },
+    {
+        "category": "Geography",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "What%20is%20the%20capital%20of%20Chile%3F",
+        "correct_answer": "Santiago",
+        "incorrect_answers": [
+            "Valpara%C3%ADso",
+            "Copiap%C3%B3",
+            "Antofagasta"
+        ]
+    },
+    {
+        "category": "Geography",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "Which%20European%20city%20has%20the%20highest%20mileage%20of%20canals%20in%20the%20world%3F",
+        "correct_answer": "Birmingham",
+        "incorrect_answers": [
+            "Venice",
+            "Amsterdam",
+            "Berlin"
+        ]
+    },
+    {
+        "category": "Geography",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "Which%20is%20the%20largest%20city%20in%20Morocco%3F",
+        "correct_answer": "Casablanca",
+        "incorrect_answers": [
+            "Rabat",
+            "Fes",
+            "Sale"
+        ]
+    },
+    {
+        "category": "Geography",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "What%20are%20the%20four%20corner%20states%20of%20the%20US%3F",
+        "correct_answer": "Utah%2C%20Colorado%2C%20Arizona%2C%20New%20Mexico",
+        "incorrect_answers": [
+            "Oregon%2C%20Idaho%2C%20Nevada%2C%20Utah",
+            "Kansas%2C%20Oklahoma%2C%20Arkansas%2C%20Louisiana",
+            "South%20Dakota%2C%20Minnesota%2C%20Nebraska%2C%20Iowa"
+        ]
+    },
+    {
+        "category": "Geography",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "The%20following%20Spanish%20provinces%20are%20located%20in%20the%20northern%20area%20of%20Spain%20except%3A",
+        "correct_answer": "Murcia",
+        "incorrect_answers": [
+            "Asturias",
+            "Navarre",
+            "Le%C3%B3n"
+        ]
+    },
+    {
+        "category": "Geography",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "Which%20of%20the%20following%20countries%20does%20NOT%20recognize%20Armenia%20as%20an%20independent%20country%3F",
+        "correct_answer": "Pakistan",
+        "incorrect_answers": [
+            "Iran",
+            "Turkey",
+            "Azerbaijan"
+        ]
+    },
+    {
+        "category": "Geography",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "All%20of%20the%20following%20countries%20have%20official%20claims%20to%20territory%20in%20Antartica%20EXCEPT%3A",
+        "correct_answer": "United%20States",
+        "incorrect_answers": [
+            "Australia",
+            "Chile",
+            "Norway"
+        ]
+    },
+    {
+        "category": "Geography",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "Gibraltar%2C%20located%20just%20south%20of%20the%20Iberian%20peninsula%2C%20is%20a%20territory%20of%20which%20West%20Europe%20country%3F",
+        "correct_answer": "United%20Kingdom",
+        "incorrect_answers": [
+            "Spain",
+            "Portugal",
+            "France"
+        ]
+    },
+    {
+        "category": "Geography",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "How%20many%20countries%20are%20larger%20than%20Australia%3F",
+        "correct_answer": "5",
+        "incorrect_answers": [
+            "4",
+            "3",
+            "6"
+        ]
+    },
+    {
+        "category": "Geography",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "The%20historical%20city%20Timbuktu%20is%20located%20in%20which%20West%20African%20country%3F",
+        "correct_answer": "Mali",
+        "incorrect_answers": [
+            "Senegal",
+            "Niger",
+            "Burkina%20Faso"
+        ]
+    },
+    {
+        "category": "Geography",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "What%20is%20the%20capital%20of%20Senegal%3F",
+        "correct_answer": "Dakar",
+        "incorrect_answers": [
+            "Nouakchott",
+            "Conakry",
+            "Monrovia"
+        ]
+    },
+    {
+        "category": "Geography",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "What%20is%20the%20right%20way%20to%20spell%20the%20capital%20of%20Hungary%3F",
+        "correct_answer": "Budapest",
+        "incorrect_answers": [
+            "Boodapest",
+            "Bhudapest",
+            "Budapast"
+        ]
+    },
+    {
+        "category": "Geography",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "What%20tiny%20principality%20lies%20between%20Spain%20and%20France%3F",
+        "correct_answer": "Andorra",
+        "incorrect_answers": [
+            "Liechtenstein",
+            "Monaco",
+            "San%20Marino"
+        ]
+    },
+    {
+        "category": "Geography",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "What%20is%20the%20official%20language%20of%20Bhutan%3F",
+        "correct_answer": "Dzongkha",
+        "incorrect_answers": [
+            "Ladakhi",
+            "Karen",
+            "Groma"
+        ]
+    },
+    {
+        "category": "Geography",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "Which%20country%20has%20three%20capital%20cities%3F",
+        "correct_answer": "South%20Africa",
+        "incorrect_answers": [
+            "Somalia",
+            "China",
+            "United%20Kingdom"
+        ]
+    },
+    {
+        "category": "Geography",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "The%20towns%20of%20Brugelette%2C%20Arlon%20and%20Ath%20are%20located%20in%20which%20country%3F",
+        "correct_answer": "Belgium",
+        "incorrect_answers": [
+            "Andorra",
+            "France",
+            "Luxembourg"
+        ]
+    },
+    {
+        "category": "Geography",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "What%20is%20the%20smallest%20country%20in%20South%20America%20by%20area%3F",
+        "correct_answer": "Suriname",
+        "incorrect_answers": [
+            "Brazil",
+            "Uruguay",
+            "Chile"
+        ]
+    },
+    {
+        "category": "Geography",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "Which%20one%20of%20these%20countries%20borders%20with%20Poland%3F",
+        "correct_answer": "Lithuania",
+        "incorrect_answers": [
+            "France",
+            "Norway",
+            "Netherlands"
+        ]
+    },
+    {
+        "category": "Geography",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "The%20land%20mass%20of%20modern%20day%20Turkey%20is%20called%20what%3F",
+        "correct_answer": "Anatolia",
+        "incorrect_answers": [
+            "Ismuth%20of%20Ottoma",
+            "Ottoma",
+            "Ismuth%20of%20Anatolia"
+        ]
+    },
+    {
+        "category": "Geography",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "Which%20of%20these%20countries%20is%20the%20smallest%20by%20population%3F",
+        "correct_answer": "Norway",
+        "incorrect_answers": [
+            "Slovakia",
+            "Finland",
+            "Hong%20Kong"
+        ]
+    },
+    {
+        "category": "Geography",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "In%20the%202016%20Global%20Peace%20Index%20poll%2C%20out%20of%20163%20countries%2C%20what%20was%20the%20United%20States%20of%20America%20ranked%3F",
+        "correct_answer": "103",
+        "incorrect_answers": [
+            "10",
+            "59",
+            "79"
+        ]
+    },
+    {
+        "category": "Geography",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "What%20is%20the%20highest%20mountain%20in%20the%20world%3F",
+        "correct_answer": "Mt.%20Everest",
+        "incorrect_answers": [
+            "Mount%20Godwin%20Austen",
+            "Kangchenjunga",
+            "Annapurna"
+        ]
+    },
+    {
+        "category": "Geography",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "What%20is%20the%20region%20conjoining%20Pakistan%2C%20India%2C%20and%20China%20with%20unknown%20leadership%20called%3F",
+        "correct_answer": "Kashmir",
+        "incorrect_answers": [
+            "Andorra",
+            "Gibraltar",
+            "Quin"
+        ]
+    },
+    {
+        "category": "Geography",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "What%20was%20the%20most%20populous%20city%20in%20the%20Americas%20in%202015%3F",
+        "correct_answer": "S%C3%A3o%20Paulo",
+        "incorrect_answers": [
+            "New%20York",
+            "Mexico%20City",
+            "Los%20Angeles"
+        ]
+    },
+    {
+        "category": "Geography",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "Broome%20is%20a%20town%20in%20which%20state%20of%20Australia%3F",
+        "correct_answer": "Western%20Australia",
+        "incorrect_answers": [
+            "Northern%20Territory",
+            "South%20Australia",
+            "Tasmania"
+        ]
+    },
+    {
+        "category": "Geography",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "Where%20is%20the%20%22Sonoran%20Desert%22%20located%3F",
+        "correct_answer": "North%20America",
+        "incorrect_answers": [
+            "South%20America",
+            "Asia",
+            "Africa"
+        ]
+    }
+]
