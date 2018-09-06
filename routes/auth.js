@@ -29,7 +29,6 @@ router.post("/register", function(req, res) {
   const email = req.body.email;
   const password = req.body.password;
   const confirmation = req.body.confirmation;
-  console.log(password)
   if (password && password.trim() === "") {
     return res.json({ message: "Password field cannot be empty" });
   }

@@ -9,13 +9,11 @@ let initDbWithJSONData = function () {
         let file = fs.readFileSync(__dirname + '/' + fileName);
         let data = JSON.parse(file);
         if (typeof data === 'object') {
-            for (i in data) {
-                Quiz.countDocuments((err, count) => {
-                    if (count === 0) {
-                        Quiz.create(data[i]);
-                    }
-                });
-            }
+            Quiz.countDocuments((err, count) => {
+                if (count === 0) {
+                    Quiz.insertMany(data);
+                }
+            });
         }
     })
 }
