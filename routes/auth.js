@@ -25,4 +25,34 @@ router.post("/login", function(req, res, next) {
   });
 });
 
+router.post("/register", function(req, res) {
+  const email = req.body.email;
+  const password = req.body.password;
+  const confirmation = req.body.confirmation;
+  if (password && password.trim() === "") {
+    return res.json({ message: "Password field cannot be empty" });
+  }
+
+  if (password && confirmation && password !== confirmation) {
+    return res.json({ message: "Password does not match confirmation" });
+  } else if(password){
+    User.create(
+      {
+        email: email,
+        password: bcrypt.hashSync(password, 10)
+      },
+      function(error, user) {
+        if (error) {
+          res.json({
+            message: "Error. Please check your username or password"
+          });
+        }
+        res.json({ success : true });
+      }
+    );
+  }else {
+    res.json({ message : "Something went wrong. Please try again"})
+  }
+});
+
 module.exports = router;

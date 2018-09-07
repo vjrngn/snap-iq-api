@@ -1,0 +1,602 @@
+[
+    {
+        "category": "General%20Knowledge",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "What%20is%20the%20world%27s%20most%20expensive%20spice%20by%20weight%3F",
+        "correct_answer": "Saffron",
+        "incorrect_answers": [
+            "Cinnamon",
+            "Cardamom",
+            "Vanilla"
+        ]
+    },
+    {
+        "category": "General%20Knowledge",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "This%20field%20is%20sometimes%20known%20as%20%E2%80%9CThe%20Dismal%20Science.%E2%80%9D",
+        "correct_answer": "Economics",
+        "incorrect_answers": [
+            "Philosophy",
+            "Politics",
+            "Physics"
+        ]
+    },
+    {
+        "category": "General%20Knowledge",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "When%20was%20the%20Declaration%20of%20Independence%20approved%20by%20the%20Second%20Continental%20Congress%3F",
+        "correct_answer": "July%202%2C%201776",
+        "incorrect_answers": [
+            "May%204%2C%201776",
+            "June%204%2C%201776",
+            "July%204%2C%201776"
+        ]
+    },
+    {
+        "category": "General%20Knowledge",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "What%20is%20the%20defining%20characteristic%20of%20someone%20who%20is%20described%20as%20hirsute%3F",
+        "correct_answer": "Hairy",
+        "incorrect_answers": [
+            "Rude",
+            "Funny",
+            "Tall"
+        ]
+    },
+    {
+        "category": "General%20Knowledge",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "A%20doctor%20with%20a%20PhD%20is%20a%20doctor%20of%20what%3F",
+        "correct_answer": "Philosophy",
+        "incorrect_answers": [
+            "Psychology",
+            "Phrenology",
+            "Physical%20Therapy"
+        ]
+    },
+    {
+        "category": "General%20Knowledge",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "Scotch%20whisky%20and%20Drambuie%20make%20up%20which%20cocktail%3F",
+        "correct_answer": "Rusty%20Nail",
+        "incorrect_answers": [
+            "Screwdriver",
+            "Sex%20on%20the%20Beach",
+            "Manhattan"
+        ]
+    },
+    {
+        "category": "General%20Knowledge",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "In%20the%20Morse%20code%2C%20which%20letter%20is%20indicated%20by%203%20dots%3F%20",
+        "correct_answer": "S",
+        "incorrect_answers": [
+            "O",
+            "A",
+            "C"
+        ]
+    },
+    {
+        "category": "General%20Knowledge",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "Which%20language%20is%20NOT%20Indo-European%3F",
+        "correct_answer": "Hungarian",
+        "incorrect_answers": [
+            "Russian",
+            "Greek",
+            "Latvian"
+        ]
+    },
+    {
+        "category": "General%20Knowledge",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "Which%20essential%20condiment%20is%20also%20known%20as%20Japanese%20horseradish%3F",
+        "correct_answer": "Wasabi%20",
+        "incorrect_answers": [
+            "Mentsuyu",
+            "Karashi",
+            "Ponzu"
+        ]
+    },
+    {
+        "category": "General%20Knowledge",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "Which%20of%20the%20following%20Ivy%20League%20universities%20has%20its%20official%20motto%20in%20Hebrew%20as%20well%20as%20in%20Latin%3F",
+        "correct_answer": "Yale%20University",
+        "incorrect_answers": [
+            "Princeton%20University",
+            "Harvard%20University",
+            "Columbia%20University"
+        ]
+    },
+    {
+        "category": "General%20Knowledge",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "What%20is%20a%20%22dakimakura%22%3F",
+        "correct_answer": "A%20body%20pillow",
+        "incorrect_answers": [
+            "A%20Chinese%20meal%2C%20essentially%20composed%20of%20fish",
+            "A%20yoga%20posture",
+            "A%20word%20used%20to%20describe%20two%20people%20who%20truly%20love%20each%20other"
+        ]
+    },
+    {
+        "category": "General%20Knowledge",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "What%20is%20the%20name%20of%20the%20very%20first%20video%20uploaded%20to%20YouTube%3F",
+        "correct_answer": "Me%20at%20the%20zoo",
+        "incorrect_answers": [
+            "tribute",
+            "carrie%20rides%20a%20truck",
+            "Her%20new%20puppy%20from%20great%20grandpa%20vern."
+        ]
+    },
+    {
+        "category": "General%20Knowledge",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "After%20how%20many%20years%20would%20you%20celebrate%20your%20crystal%20anniversary%3F",
+        "correct_answer": "15",
+        "incorrect_answers": [
+            "20",
+            "10",
+            "25"
+        ]
+    },
+    {
+        "category": "General%20Knowledge",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "Who%20is%20a%20co-founder%20of%20music%20streaming%20service%20Spotify%3F",
+        "correct_answer": "Daniel%20Ek",
+        "incorrect_answers": [
+            "Sean%20Parker",
+            "Felix%20Miller",
+            "Michael%20Breidenbruecker"
+        ]
+    },
+    {
+        "category": "General%20Knowledge",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "A%20factiod%20is%20what%3F",
+        "correct_answer": "A%20falsehood",
+        "incorrect_answers": [
+            "Useless%20trivia",
+            "A%20tiny%20fact",
+            "A%20scientific%20figure"
+        ]
+    },
+    {
+        "category": "General%20Knowledge",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "What%20is%20the%20unit%20of%20currency%20in%20Laos%3F",
+        "correct_answer": "Kip",
+        "incorrect_answers": [
+            "Ruble",
+            "Konra",
+            "Dollar"
+        ]
+    },
+    {
+        "category": "General%20Knowledge",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "Which%20of%20the%20following%20buildings%20is%20example%20of%20a%20structure%20primarily%20built%20in%20the%20Art%20Deco%20architectural%20style%3F",
+        "correct_answer": "Niagara%20Mohawk%20Building",
+        "incorrect_answers": [
+            "Taipei%20101",
+            "One%20Detroit%20Center",
+            "Westendstrasse%201"
+        ]
+    },
+    {
+        "category": "General%20Knowledge",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "What%20alcoholic%20drink%20is%20mainly%20made%20from%20juniper%20berries%3F",
+        "correct_answer": "Gin",
+        "incorrect_answers": [
+            "Vodka",
+            "Rum",
+            "Tequila"
+        ]
+    },
+    {
+        "category": "General%20Knowledge",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "What%20did%20the%20Spanish%20autonomous%20community%20of%20Catalonia%20ban%20in%202010%2C%20that%20took%20effect%20in%202012%3F",
+        "correct_answer": "Bullfighting",
+        "incorrect_answers": [
+            "Fiestas",
+            "Flamenco",
+            "Mariachi"
+        ]
+    },
+    {
+        "category": "General%20Knowledge",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "Which%20Italian%20automobile%20manufacturer%20gained%20majority%20control%20of%20U.S.%20automobile%20manufacturer%20Chrysler%20in%202011%3F",
+        "correct_answer": "Fiat",
+        "incorrect_answers": [
+            "Maserati",
+            "Alfa%20Romeo",
+            "Ferrari"
+        ]
+    },
+    {
+        "category": "General%20Knowledge",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "What%20is%20the%20name%20given%20to%20Indian%20food%20cooked%20over%20charcoal%20in%20a%20clay%20oven%3F",
+        "correct_answer": "Tandoori",
+        "incorrect_answers": [
+            "Biryani",
+            "Pani%20puri",
+            "Tiki%20masala"
+        ]
+    },
+    {
+        "category": "General%20Knowledge",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "What%20is%20the%20German%20word%20for%20%22spoon%22%3F",
+        "correct_answer": "L%C3%B6ffel",
+        "incorrect_answers": [
+            "Gabel",
+            "Messer",
+            "Essst%C3%A4bchen"
+        ]
+    },
+    {
+        "category": "General%20Knowledge",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "What%20is%20the%20romanized%20Japanese%20word%20for%20%22university%22%3F",
+        "correct_answer": "Daigaku",
+        "incorrect_answers": [
+            "Toshokan",
+            "Jimusho",
+            "Shokudou"
+        ]
+    },
+    {
+        "category": "General%20Knowledge",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "What%20is%20the%20Swedish%20word%20for%20%22window%22%3F",
+        "correct_answer": "F%C3%B6nster",
+        "incorrect_answers": [
+            "H%C3%A5l",
+            "Sk%C3%A4rm",
+            "Ruta"
+        ]
+    },
+    {
+        "category": "General%20Knowledge",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "What%20is%20the%20Italian%20word%20for%20%22tomato%22%3F",
+        "correct_answer": "Pomodoro",
+        "incorrect_answers": [
+            "Aglio",
+            "Cipolla",
+            "Peperoncino"
+        ]
+    },
+    {
+        "category": "General%20Knowledge",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "What%20is%20the%20romanized%20Russian%20word%20for%20%22winter%22%3F",
+        "correct_answer": "Zima",
+        "incorrect_answers": [
+            "Leto",
+            "Vesna",
+            "Osen%27"
+        ]
+    },
+    {
+        "category": "General%20Knowledge",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "What%20country%20saw%20a%20world%20record%20315%20million%20voters%20turn%20out%20for%20elections%20on%20May%2020%2C%201991%3F",
+        "correct_answer": "India",
+        "incorrect_answers": [
+            "United%20States%20of%20America",
+            "Soviet%20Union",
+            "Poland"
+        ]
+    },
+    {
+        "category": "General%20Knowledge",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "On%20average%2C%20Americans%20consume%20100%20pounds%20of%20what%20per%20second%3F",
+        "correct_answer": "Chocolate",
+        "incorrect_answers": [
+            "Potatoes",
+            "Donuts",
+            "Cocaine"
+        ]
+    },
+    {
+        "category": "General%20Knowledge",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "According%20to%20the%20United%20States%27%20CDC%2C%20one%20in%20how%20many%20Americans%20die%20annually%20due%20to%20smoking%3F",
+        "correct_answer": "Five",
+        "incorrect_answers": [
+            "Twenty",
+            "Ten",
+            "One%20hundred"
+        ]
+    },
+    {
+        "category": "General%20Knowledge",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "Who%20is%20the%20founder%20of%20%22The%20Lego%20Group%22%3F",
+        "correct_answer": "Ole%20Kirk%20Christiansen",
+        "incorrect_answers": [
+            "%20Jens%20Niels%20Christiansen",
+            "Kirstine%20Christiansen",
+            "%20Gerhardt%20Kirk%20Christiansen"
+        ]
+    },
+    {
+        "category": "General%20Knowledge",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "What%20is%20the%20last%20letter%20of%20the%20Greek%20alphabet%3F",
+        "correct_answer": "Omega",
+        "incorrect_answers": [
+            "Mu",
+            "Epsilon",
+            "Kappa"
+        ]
+    },
+    {
+        "category": "General%20Knowledge",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "What%20character%20was%20once%20considered%20to%20be%20the%2027th%20letter%20of%20the%20alphabet%3F",
+        "correct_answer": "Ampersand",
+        "incorrect_answers": [
+            "Interrobang",
+            "Tilde",
+            "Pilcrow"
+        ]
+    },
+    {
+        "category": "General%20Knowledge",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "When%20was%20Nintendo%20founded%3F",
+        "correct_answer": "September%2023rd%2C%201889",
+        "incorrect_answers": [
+            "October%2019th%2C%201891",
+            "March%204th%2C%201887",
+            "December%2027th%2C%201894"
+        ]
+    },
+    {
+        "category": "General%20Knowledge",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "The%20new%20One%20World%20Trade%20Center%20in%20Manhattan%2C%20New%20York%20City%20was%20designed%20by%20which%20architect%3F%20",
+        "correct_answer": "David%20Childs",
+        "incorrect_answers": [
+            "Bjarke%20Ingels",
+            "Michael%20Arad",
+            "Fumihiko%20Maki"
+        ]
+    },
+    {
+        "category": "General%20Knowledge",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "Amsterdam%20Centraal%20station%20is%20twinned%20with%20what%20station%3F",
+        "correct_answer": "London%20Liverpool%20Street",
+        "incorrect_answers": [
+            "Frankfurt%20%28Main%29%20Hauptbahnhof",
+            "Paris%20Gare%20du%20Nord",
+            "Brussels%20Midi"
+        ]
+    },
+    {
+        "category": "General%20Knowledge",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "Which%20of%20the%20following%20carbonated%20soft%20drinks%20were%20introduced%20first%3F",
+        "correct_answer": "Dr.%20Pepper",
+        "incorrect_answers": [
+            "Coca-Cola",
+            "Sprite",
+            "Mountain%20Dew"
+        ]
+    },
+    {
+        "category": "General%20Knowledge",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "In%20what%20year%20was%20McDonald%27s%20founded%3F",
+        "correct_answer": "1955",
+        "incorrect_answers": [
+            "1964",
+            "1951",
+            "1947"
+        ]
+    },
+    {
+        "category": "General%20Knowledge",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "Which%20of%20the%20General%20Mills%20Corporation%27s%20monster%20cereals%20was%20the%20last%20to%20be%20released%20in%20the%201970%27s%3F",
+        "correct_answer": "Fruit%20Brute",
+        "incorrect_answers": [
+            "Count%20Chocula",
+            "Franken%20Berry",
+            "Boo-Berry"
+        ]
+    },
+    {
+        "category": "General%20Knowledge",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "When%20was%20Hubba%20Bubba%20first%20introduced%3F",
+        "correct_answer": "1979",
+        "incorrect_answers": [
+            "1984",
+            "1972",
+            "1980"
+        ]
+    },
+    {
+        "category": "General%20Knowledge",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "Which%20iconic%20Disneyland%20attraction%20was%20closed%20in%202017%20to%20be%20remodeled%20as%20a%20%22Guardians%20of%20the%20Galaxy%22%20themed%20ride%3F",
+        "correct_answer": "Twilight%20Zone%20Tower%20of%20Terror",
+        "incorrect_answers": [
+            "The%20Haunted%20Mansion",
+            "Pirates%20of%20the%20Caribbean",
+            "Peter%20Pan%27s%20Flight"
+        ]
+    },
+    {
+        "category": "General%20Knowledge",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "What%20was%20the%20soft%20drink%20Pepsi%20originally%20introduced%20as%3F",
+        "correct_answer": "Brad%27s%20Drink",
+        "incorrect_answers": [
+            "Pepsin%20Pop",
+            "Carolina%20Cola",
+            "Pepsin%20Syrup"
+        ]
+    },
+    {
+        "category": "General%20Knowledge",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "What%20is%20the%20Portuguese%20word%20for%20%22Brazil%22%3F",
+        "correct_answer": "Brasil",
+        "incorrect_answers": [
+            "Brazil",
+            "Brasilia",
+            "Bras%C3%ADl"
+        ]
+    },
+    {
+        "category": "General%20Knowledge",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "What%20is%20a%20Burgee%3F",
+        "correct_answer": "A%20flag",
+        "incorrect_answers": [
+            "A%20rope",
+            "A%20window",
+            "A%20type%20of%20food"
+        ]
+    },
+    {
+        "category": "General%20Knowledge",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "Who%20invented%20Pastafarianism%3F",
+        "correct_answer": "Bobby%20Henderson",
+        "incorrect_answers": [
+            "Eric%20Tignor",
+            "Bill%20Nye",
+            "Zach%20Soldi"
+        ]
+    },
+    {
+        "category": "General%20Knowledge",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "In%20a%201994%20CBS%20interview%2C%20Microsoft%20co-founder%20Bill%20Gates%20performed%20what%20unusual%20trick%20on%20camera%3F",
+        "correct_answer": "Jumping%20over%20an%20office%20chair",
+        "incorrect_answers": [
+            "Jumping%20backwards%20over%20a%20desk",
+            "Standing%20on%20his%20head",
+            "Typing%20on%20a%20keyboard%20during%20a%20handstand"
+        ]
+    },
+    {
+        "category": "General%20Knowledge",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "Apple%20co-founder%20Steve%20Jobs%20died%20from%20complications%20of%20which%20form%20of%20cancer%3F",
+        "correct_answer": "Pancreatic",
+        "incorrect_answers": [
+            "Bone",
+            "Liver",
+            "Stomach"
+        ]
+    },
+    {
+        "category": "General%20Knowledge",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "The%20website%20%22Shut%20Up%20%26%20Sit%20Down%22%20reviews%20which%20form%20of%20media%3F",
+        "correct_answer": "Board%20Games",
+        "incorrect_answers": [
+            "Television%20Shows",
+            "Video%20Games",
+            "Films"
+        ]
+    },
+    {
+        "category": "General%20Knowledge",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "Whose%20greyscale%20face%20is%20on%20the%20kappa%20emoticon%20on%20Twitch%3F",
+        "correct_answer": "Josh%20DeSeno",
+        "incorrect_answers": [
+            "Justin%20DeSeno",
+            "John%20DeSeno",
+            "Jimmy%20DeSeno"
+        ]
+    },
+    {
+        "category": "General%20Knowledge",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "Which%20of%20these%20words%20means%20%22idle%20spectator%22%3F",
+        "correct_answer": "Gongoozler",
+        "incorrect_answers": [
+            "Gossypiboma",
+            "Jentacular",
+            "Meupareunia"
+        ]
+    },
+    {
+        "category": "General%20Knowledge",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "Which%20country%20drives%20on%20the%20left%20side%20of%20the%20road%3F",
+        "correct_answer": "Japan",
+        "incorrect_answers": [
+            "Germany",
+            "Russia",
+            "China"
+        ]
+    }
+]

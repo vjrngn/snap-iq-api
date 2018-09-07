@@ -1,0 +1,362 @@
+[
+    {
+        "category": "Science%3A%20Computers",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "Whistler%20was%20the%20codename%20of%20this%20Microsoft%20Operating%20System.",
+        "correct_answer": "Windows%20XP",
+        "incorrect_answers": [
+            "Windows%202000",
+            "Windows%207",
+            "Windows%2095"
+        ]
+    },
+    {
+        "category": "Science%3A%20Computers",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "When%20was%20the%20programming%20language%20%22C%23%22%20released%3F",
+        "correct_answer": "2000",
+        "incorrect_answers": [
+            "1998",
+            "1999",
+            "2001"
+        ]
+    },
+    {
+        "category": "Science%3A%20Computers",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "On%20which%20computer%20hardware%20device%20is%20the%20BIOS%20chip%20located%3F",
+        "correct_answer": "Motherboard",
+        "incorrect_answers": [
+            "Hard%20Disk%20Drive",
+            "Central%20Processing%20Unit",
+            "Graphics%20Processing%20Unit"
+        ]
+    },
+    {
+        "category": "Science%3A%20Computers",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "Which%20of%20the%20following%20languages%20is%20used%20as%20a%20scripting%20language%20in%20the%20Unity%203D%20game%20engine%3F",
+        "correct_answer": "C%23",
+        "incorrect_answers": [
+            "Java",
+            "C%2B%2B",
+            "Objective-C"
+        ]
+    },
+    {
+        "category": "Science%3A%20Computers",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "All%20of%20the%20following%20programs%20are%20classified%20as%20raster%20graphics%20editors%20EXCEPT%3A",
+        "correct_answer": "Inkscape",
+        "incorrect_answers": [
+            "Paint.NET",
+            "GIMP",
+            "Adobe%20Photoshop"
+        ]
+    },
+    {
+        "category": "Science%3A%20Computers",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "The%20computer%20OEM%20manufacturer%20Clevo%2C%20known%20for%20its%20Sager%20notebook%20line%2C%20is%20based%20in%20which%20country%3F",
+        "correct_answer": "Taiwan",
+        "incorrect_answers": [
+            "United%20States",
+            "Germany",
+            "China%20%28People%27s%20Republic%20of%29"
+        ]
+    },
+    {
+        "category": "Science%3A%20Computers",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "What%20was%20the%20first%20commerically%20available%20computer%20processor%3F",
+        "correct_answer": "Intel%204004",
+        "incorrect_answers": [
+            "Intel%20486SX",
+            "TMS%201000",
+            "AMD%20AM386"
+        ]
+    },
+    {
+        "category": "Science%3A%20Computers",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "What%20was%20the%20name%20given%20to%20Android%204.3%3F",
+        "correct_answer": "Jelly%20Bean",
+        "incorrect_answers": [
+            "Lollipop",
+            "Nutella",
+            "Froyo"
+        ]
+    },
+    {
+        "category": "Science%3A%20Computers",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "Which%20of%20these%20is%20the%20name%20for%20the%20failed%20key%20escrow%20device%20introduced%20by%20the%20National%20Security%20Agency%20in%201993%3F",
+        "correct_answer": "Clipper%20Chip",
+        "incorrect_answers": [
+            "Enigma%20Machine",
+            "Skipjack",
+            "Nautilus"
+        ]
+    },
+    {
+        "category": "Science%3A%20Computers",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "What%20does%20the%20acronym%20CDN%20stand%20for%20in%20terms%20of%20networking%3F",
+        "correct_answer": "Content%20Delivery%20Network",
+        "incorrect_answers": [
+            "Content%20Distribution%20Network",
+            "Computational%20Data%20Network",
+            "Compressed%20Data%20Network"
+        ]
+    },
+    {
+        "category": "Science%3A%20Computers",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "How%20many%20cores%20does%20the%20Intel%20i7-6950X%20have%3F",
+        "correct_answer": "10",
+        "incorrect_answers": [
+            "12",
+            "8",
+            "4"
+        ]
+    },
+    {
+        "category": "Science%3A%20Computers",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "Which%20one%20of%20these%20is%20not%20an%20official%20development%20name%20for%20a%20Ubuntu%20release%3F",
+        "correct_answer": "Mystic%20Mansion",
+        "incorrect_answers": [
+            "Trusty%20Tahr",
+            "Utopic%20Unicorn",
+            "Wily%20Werewolf"
+        ]
+    },
+    {
+        "category": "Science%3A%20Computers",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "In%20the%20server%20hosting%20industry%20IaaS%20stands%20for...",
+        "correct_answer": "Infrastructure%20as%20a%20Service",
+        "incorrect_answers": [
+            "Internet%20as%20a%20Service",
+            "Internet%20and%20a%20Server",
+            "Infrastructure%20as%20a%20Server"
+        ]
+    },
+    {
+        "category": "Science%3A%20Computers",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "Which%20coding%20language%20was%20the%20%231%20programming%20language%20in%20terms%20of%20usage%20on%20GitHub%20in%202015%3F",
+        "correct_answer": "JavaScript",
+        "incorrect_answers": [
+            "C%23",
+            "Python",
+            "PHP"
+        ]
+    },
+    {
+        "category": "Science%3A%20Computers",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "What%20is%20the%20name%20of%20the%20default%20theme%20that%20is%20installed%20with%20Windows%20XP%3F",
+        "correct_answer": "Luna",
+        "incorrect_answers": [
+            "Neptune",
+            "Whistler",
+            "Bliss"
+        ]
+    },
+    {
+        "category": "Science%3A%20Computers",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "In%20the%20programming%20language%20%22Python%22%2C%20which%20of%20these%20statements%20would%20display%20the%20string%20%22Hello%20World%22%20correctly%3F",
+        "correct_answer": "print%28%22Hello%20World%22%29",
+        "incorrect_answers": [
+            "console.log%28%22Hello%20World%22%29",
+            "echo%20%22Hello%20World%22",
+            "printf%28%22Hello%20World%22%29"
+        ]
+    },
+    {
+        "category": "Science%3A%20Computers",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "In%20HTML%2C%20which%20non-standard%20tag%20used%20to%20be%20be%20used%20to%20make%20elements%20scroll%20across%20the%20viewport%3F",
+        "correct_answer": "%3Cmarquee%3E%3C%2Fmarquee%3E",
+        "incorrect_answers": [
+            "%3Cscroll%3E%3C%2Fscroll%3E",
+            "%3Cmove%3E%3C%2Fmove%3E",
+            "%3Cslide%3E%3C%2Fslide%3E"
+        ]
+    },
+    {
+        "category": "Science%3A%20Computers",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "What%20is%20the%20correct%20term%20for%20the%20metal%20object%20in%20between%20the%20CPU%20and%20the%20CPU%20fan%20within%20a%20computer%20system%3F",
+        "correct_answer": "Heat%20Sink",
+        "incorrect_answers": [
+            "CPU%20Vent",
+            "Temperature%20Decipator",
+            "Heat%20Vent"
+        ]
+    },
+    {
+        "category": "Science%3A%20Computers",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "How%20fast%20is%20USB%203.1%20Gen%202%20theoretically%3F",
+        "correct_answer": "10%20Gb%2Fs",
+        "incorrect_answers": [
+            "5%20Gb%2Fs",
+            "8%20Gb%2Fs",
+            "1%20Gb%2Fs"
+        ]
+    },
+    {
+        "category": "Science%3A%20Computers",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "What%20does%20%22LCD%22%20stand%20for%3F",
+        "correct_answer": "Liquid%20Crystal%20Display",
+        "incorrect_answers": [
+            "Language%20Control%20Design",
+            "Last%20Common%20Difference",
+            "Long%20Continuous%20Design"
+        ]
+    },
+    {
+        "category": "Science%3A%20Computers",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "Which%20operating%20system%20was%20released%20first%3F",
+        "correct_answer": "Mac%20OS",
+        "incorrect_answers": [
+            "Windows",
+            "Linux",
+            "OS%2F2"
+        ]
+    },
+    {
+        "category": "Science%3A%20Computers",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": ".at%20is%20the%20top-level%20domain%20for%20what%20country%3F",
+        "correct_answer": "Austria",
+        "incorrect_answers": [
+            "Argentina",
+            "Australia",
+            "Angola"
+        ]
+    },
+    {
+        "category": "Science%3A%20Computers",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "What%20does%20the%20term%20GPU%20stand%20for%3F",
+        "correct_answer": "Graphics%20Processing%20Unit",
+        "incorrect_answers": [
+            "Gaming%20Processor%20Unit",
+            "Graphite%20Producing%20Unit",
+            "Graphical%20Proprietary%20Unit"
+        ]
+    },
+    {
+        "category": "Science%3A%20Computers",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "What%20is%20the%20main%20CPU%20is%20the%20Sega%20Mega%20Drive%20%2F%20Sega%20Genesis%3F",
+        "correct_answer": "Motorola%2068000",
+        "incorrect_answers": [
+            "Zilog%20Z80",
+            "Yamaha%20YM2612",
+            "Intel%208088"
+        ]
+    },
+    {
+        "category": "Science%3A%20Computers",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "What%20was%20the%20first%20Android%20version%20specifically%20optimized%20for%20tablets%3F",
+        "correct_answer": "Honeycomb",
+        "incorrect_answers": [
+            "Eclair",
+            "Froyo",
+            "Marshmellow"
+        ]
+    },
+    {
+        "category": "Science%3A%20Computers",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "Which%20of%20these%20people%20was%20NOT%20a%20founder%20of%20Apple%20Inc%3F",
+        "correct_answer": "Jonathan%20Ive",
+        "incorrect_answers": [
+            "Steve%20Jobs",
+            "Ronald%20Wayne",
+            "Steve%20Wozniak"
+        ]
+    },
+    {
+        "category": "Science%3A%20Computers",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "When%20did%20the%20online%20streaming%20service%20%22Mixer%22%20launch%3F",
+        "correct_answer": "2016",
+        "incorrect_answers": [
+            "2013",
+            "2009",
+            "2011"
+        ]
+    },
+    {
+        "category": "Science%3A%20Computers",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "What%20does%20the%20term%20MIME%20stand%20for%2C%20in%20regards%20to%20computing%3F",
+        "correct_answer": "Multipurpose%20Internet%20Mail%20Extensions",
+        "incorrect_answers": [
+            "Mail%20Internet%20Mail%20Exchange",
+            "Multipurpose%20Interleave%20Mail%20Exchange",
+            "Mail%20Interleave%20Method%20Exchange"
+        ]
+    },
+    {
+        "category": "Science%3A%20Computers",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "Which%20programming%20language%20was%20developed%20by%20Sun%20Microsystems%20in%201995%3F",
+        "correct_answer": "Java",
+        "incorrect_answers": [
+            "Python",
+            "Solaris%20OS",
+            "C%2B%2B"
+        ]
+    },
+    {
+        "category": "Science%3A%20Computers",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "The%20name%20of%20technology%20company%20HP%20stands%20for%20what%3F",
+        "correct_answer": "Hewlett-Packard",
+        "incorrect_answers": [
+            "Howard%20Packmann",
+            "Husker-Pollosk",
+            "Hellman-Pohl"
+        ]
+    }
+]

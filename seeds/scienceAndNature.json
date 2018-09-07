@@ -1,0 +1,602 @@
+[
+    {
+        "category": "Science%20%26%20Nature",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "Along%20with%20Oxygen%2C%20which%20element%20is%20primarily%20responsible%20for%20the%20sky%20appearing%20blue%3F",
+        "correct_answer": "Nitrogen",
+        "incorrect_answers": [
+            "Helium",
+            "Carbon",
+            "Hydrogen"
+        ]
+    },
+    {
+        "category": "Science%20%26%20Nature",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "What%20is%20the%20colour%20of%20unoxidized%20blood%3F",
+        "correct_answer": "Red",
+        "incorrect_answers": [
+            "Blue",
+            "Purple",
+            "Green"
+        ]
+    },
+    {
+        "category": "Science%20%26%20Nature",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "The%20humerus%2C%20paired%20radius%2C%20and%20ulna%20come%20together%20to%20form%20what%20joint%3F",
+        "correct_answer": "Elbow",
+        "incorrect_answers": [
+            "Knee",
+            "Sholder",
+            "Ankle"
+        ]
+    },
+    {
+        "category": "Science%20%26%20Nature",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "In%20aeronautics%2C%20flaps%20and%20slats%20are%20used%20to%20control%20what%20on%20an%20aircraft%3F",
+        "correct_answer": "Lift",
+        "incorrect_answers": [
+            "Thrust",
+            "Drag",
+            "Weight%20"
+        ]
+    },
+    {
+        "category": "Science%20%26%20Nature",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "Which%20of%20these%20stars%20is%20the%20largest%3F",
+        "correct_answer": "UY%20Scuti",
+        "incorrect_answers": [
+            "VY%20Canis%20Majoris",
+            "Betelgeuse",
+            "RW%20Cephei"
+        ]
+    },
+    {
+        "category": "Science%20%26%20Nature",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "What%20was%20the%20first%20living%20creature%20in%20space%3F",
+        "correct_answer": "Fruit%20Flies%20",
+        "incorrect_answers": [
+            "Monkey",
+            "Dog",
+            "Mouse"
+        ]
+    },
+    {
+        "category": "Science%20%26%20Nature",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "What%20mineral%20has%20the%20lowest%20number%20on%20the%20Mohs%20scale%3F",
+        "correct_answer": "Talc",
+        "incorrect_answers": [
+            "Quartz",
+            "Diamond",
+            "Gypsum"
+        ]
+    },
+    {
+        "category": "Science%20%26%20Nature",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "Gannymede%20is%20the%20largest%20moon%20of%20which%20planet%3F",
+        "correct_answer": "Jupiter",
+        "incorrect_answers": [
+            "Uranus",
+            "Neptune",
+            "Mars"
+        ]
+    },
+    {
+        "category": "Science%20%26%20Nature",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "How%20many%20degrees%20Fahrenheit%20is%20100%20degrees%20Celsius%3F%20",
+        "correct_answer": "212",
+        "incorrect_answers": [
+            "326",
+            "100",
+            "451"
+        ]
+    },
+    {
+        "category": "Science%20%26%20Nature",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "To%20the%20nearest%20minute%2C%20how%20long%20does%20it%20take%20for%20light%20to%20travel%20from%20the%20Sun%20to%20the%20Earth%3F",
+        "correct_answer": "8%20Minutes",
+        "incorrect_answers": [
+            "6%20Minutes",
+            "2%20Minutes",
+            "12%20Minutes"
+        ]
+    },
+    {
+        "category": "Science%20%26%20Nature",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "Which%20chemical%20element%20has%20the%20lowest%20boiling%20point%3F",
+        "correct_answer": "Helium",
+        "incorrect_answers": [
+            "Hydrogen",
+            "Neon",
+            "Nitrogen"
+        ]
+    },
+    {
+        "category": "Science%20%26%20Nature",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "Which%20element%20has%20the%20atomic%20number%20of%207%3F",
+        "correct_answer": "Nitrogen",
+        "incorrect_answers": [
+            "Oxygen",
+            "Hydrogen",
+            "Neon"
+        ]
+    },
+    {
+        "category": "Science%20%26%20Nature",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "Au%20on%20the%20Periodic%20Table%20refers%20to%20which%20element%3F",
+        "correct_answer": "Gold",
+        "incorrect_answers": [
+            "Silver",
+            "Oxygen",
+            "Nickel"
+        ]
+    },
+    {
+        "category": "Science%20%26%20Nature",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "All%20the%20following%20metal%20elements%20are%20liquids%20at%20or%20near%20room%20temperature%20EXCEPT%3A",
+        "correct_answer": "Beryllium",
+        "incorrect_answers": [
+            "Gallium",
+            "Caesium",
+            "Mercury"
+        ]
+    },
+    {
+        "category": "Science%20%26%20Nature",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "The%20Axiom%20of%20Preventive%20Medicine%20states%20that%20people%20with%20___%20risk%20for%20a%20disease%20should%20be%20screened%20and%20we%20should%20treat%20___%20of%20those%20people.",
+        "correct_answer": "low%2C%20all",
+        "incorrect_answers": [
+            "low%2C%20some",
+            "high%2C%20all",
+            "high%2C%20some"
+        ]
+    },
+    {
+        "category": "Science%20%26%20Nature",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "How%20many%20officially%20recognized%20dwarf%20planets%20in%20the%20solar%20system%20are%20named%20after%20Polynesian%20deities%3F",
+        "correct_answer": "2",
+        "incorrect_answers": [
+            "0",
+            "1",
+            "5"
+        ]
+    },
+    {
+        "category": "Science%20%26%20Nature",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "Which%20psychological%20term%20refers%20to%20the%20stress%20of%20holding%20contrasting%20beliefs%3F",
+        "correct_answer": "Cognitive%20Dissonance",
+        "incorrect_answers": [
+            "Flip-Flop%20Syndrome",
+            "Split-Brain",
+            "Blind%20Sight"
+        ]
+    },
+    {
+        "category": "Science%20%26%20Nature",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "The%20%22Tibia%22%20is%20found%20in%20which%20part%20of%20the%20body%3F",
+        "correct_answer": "Leg",
+        "incorrect_answers": [
+            "Arm",
+            "Hand",
+            "Head"
+        ]
+    },
+    {
+        "category": "Science%20%26%20Nature",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "Who%20developed%20the%20first%20successful%20polio%20vaccine%20in%20the%201950s%3F",
+        "correct_answer": "Jonas%20Salk",
+        "incorrect_answers": [
+            "John%20F.%20Enders",
+            "Thomas%20Weller",
+            "Frederick%20Robbins"
+        ]
+    },
+    {
+        "category": "Science%20%26%20Nature",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "What%20is%20the%20chemical%20formula%20for%20ammonia%3F",
+        "correct_answer": "NH3",
+        "incorrect_answers": [
+            "CO2",
+            "NO3",
+            "CH4"
+        ]
+    },
+    {
+        "category": "Science%20%26%20Nature",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "Where%20did%20the%20dog%20breed%20%22Chihuahua%22%20originate%3F",
+        "correct_answer": "Mexico",
+        "incorrect_answers": [
+            "France",
+            "Spain",
+            "Russia"
+        ]
+    },
+    {
+        "category": "Science%20%26%20Nature",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "What%20polymer%20is%20used%20to%20make%20CDs%2C%20safety%20goggles%20and%20riot%20shields%3F",
+        "correct_answer": "Polycarbonate",
+        "incorrect_answers": [
+            "Rubber",
+            "Nylon",
+            "Bakelite"
+        ]
+    },
+    {
+        "category": "Science%20%26%20Nature",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "The%20medical%20condition%20osteoporosis%20affects%20which%20part%20of%20the%20body%3F",
+        "correct_answer": "Bones",
+        "incorrect_answers": [
+            "Skin",
+            "Brain",
+            "Heart"
+        ]
+    },
+    {
+        "category": "Science%20%26%20Nature",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "What%20is%20the%20atomic%20number%20of%20the%20element%20Strontium%3F",
+        "correct_answer": "38",
+        "incorrect_answers": [
+            "73",
+            "47",
+            "11"
+        ]
+    },
+    {
+        "category": "Science%20%26%20Nature",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "Which%20of%20these%20is%20NOT%20a%20part%20of%20the%20structure%20of%20a%20typical%20neuron%3F",
+        "correct_answer": "Islets%20of%20Langerhans",
+        "incorrect_answers": [
+            "Node%20of%20Ranvier",
+            "Schwann%20cell",
+            "Myelin%20sheath"
+        ]
+    },
+    {
+        "category": "Science%20%26%20Nature",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "Which%20part%20of%20the%20body%20does%20glaucoma%20affect%3F",
+        "correct_answer": "Eyes",
+        "incorrect_answers": [
+            "Throat",
+            "Stomach",
+            "Blood"
+        ]
+    },
+    {
+        "category": "Science%20%26%20Nature",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "What%20term%20is%20best%20associated%20with%20Sigmund%20Freud%3F",
+        "correct_answer": "Psychoanalysis",
+        "incorrect_answers": [
+            "Cognitive-Behavioral%20Therapy",
+            "Theory%20of%20Gravity",
+            "Dialectical%20Behavior%20Therapy"
+        ]
+    },
+    {
+        "category": "Science%20%26%20Nature",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "Which%20one%20of%20these%20scientists%20conducted%20the%20Gold%20Foil%20Experiment%20which%20concluded%20that%20atoms%20are%20mostly%20made%20of%20empty%20space%3F",
+        "correct_answer": "Ernest%20Rutherford",
+        "incorrect_answers": [
+            "Joseph%20John%20Thomson",
+            "Archimedes",
+            "Niels%20Henrik%20David%20Bohr"
+        ]
+    },
+    {
+        "category": "Science%20%26%20Nature",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "After%20which%20Danish%20city%20is%20the%2072th%20element%20on%20the%20periodic%20table%20named%3F",
+        "correct_answer": "Copenhagen",
+        "incorrect_answers": [
+            "Odense",
+            "Herning",
+            "Skagen"
+        ]
+    },
+    {
+        "category": "Science%20%26%20Nature",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "What%20does%20the%20yellow%20diamond%20on%20the%20NFPA%20704%20fire%20diamond%20represent%3F",
+        "correct_answer": "Reactivity",
+        "incorrect_answers": [
+            "Health",
+            "Flammability",
+            "Radioactivity"
+        ]
+    },
+    {
+        "category": "Science%20%26%20Nature",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "The%20human%20right%20lung%20has%20how%20many%20lobes%3F",
+        "correct_answer": "3",
+        "incorrect_answers": [
+            "4",
+            "2",
+            "1"
+        ]
+    },
+    {
+        "category": "Science%20%26%20Nature",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "Myopia%20is%20the%20scientific%20term%20for%20which%20condition%3F",
+        "correct_answer": "Shortsightedness",
+        "incorrect_answers": [
+            "Farsightedness",
+            "Double%20Vision",
+            "Clouded%20Vision"
+        ]
+    },
+    {
+        "category": "Science%20%26%20Nature",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "In%20Chemistry%2C%20how%20many%20isomers%20does%20Butanol%20%28C4H9OH%29%20have%3F",
+        "correct_answer": "4",
+        "incorrect_answers": [
+            "3",
+            "5",
+            "6"
+        ]
+    },
+    {
+        "category": "Science%20%26%20Nature",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "What%20stage%20of%20development%20do%20the%20majority%20of%20eukaryotic%20cells%20remain%20in%20for%20most%20of%20their%20life%3F",
+        "correct_answer": "Interphase",
+        "incorrect_answers": [
+            "Prophase",
+            "Stasis",
+            "Telophase"
+        ]
+    },
+    {
+        "category": "Science%20%26%20Nature",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "At%20what%20temperature%20does%20water%20boil%3F",
+        "correct_answer": "212%C2%B0F",
+        "incorrect_answers": [
+            "200%C2%B0F",
+            "181%C2%B0F",
+            "178%C2%B0F"
+        ]
+    },
+    {
+        "category": "Science%20%26%20Nature",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "Which%20of%20these%20elements%20on%20the%20Periodic%20Table%20is%20a%20Noble%20Gas%3F",
+        "correct_answer": "Neon",
+        "incorrect_answers": [
+            "Potassium",
+            "Iodine",
+            "Colbalt"
+        ]
+    },
+    {
+        "category": "Science%20%26%20Nature",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "Deuterium%20is%20an%20isotope%20of%20which%20element%3F",
+        "correct_answer": "Hydrogen",
+        "incorrect_answers": [
+            "Nitrogen",
+            "Helium",
+            "Neon"
+        ]
+    },
+    {
+        "category": "Science%20%26%20Nature",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "A%20positron%20is%20an%20antiparticle%20of%20a%20what%3F",
+        "correct_answer": "Electron",
+        "incorrect_answers": [
+            "Neutron",
+            "Proton",
+            "Photon"
+        ]
+    },
+    {
+        "category": "Science%20%26%20Nature",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "Who%20made%20the%20discovery%20of%20X-rays%3F",
+        "correct_answer": "Wilhelm%20Conrad%20R%C3%B6ntgen",
+        "incorrect_answers": [
+            "Thomas%20Alva%20Edison",
+            "James%20Watt",
+            "Albert%20Einstein"
+        ]
+    },
+    {
+        "category": "Science%20%26%20Nature",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "About%20how%20old%20is%20Earth%3F",
+        "correct_answer": "4.5%20Billion%20Years",
+        "incorrect_answers": [
+            "3.5%20Billion%20Years",
+            "2.5%20Billion%20Years",
+            "5.5%20Billion%20Years"
+        ]
+    },
+    {
+        "category": "Science%20%26%20Nature",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "What%20is%20radiation%20measured%20in%3F",
+        "correct_answer": "Gray%20",
+        "incorrect_answers": [
+            "Watt",
+            "Decibel",
+            "Kelvin"
+        ]
+    },
+    {
+        "category": "Science%20%26%20Nature",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "What%20is%20the%20unit%20of%20electrical%20capacitance%3F",
+        "correct_answer": "Farad",
+        "incorrect_answers": [
+            "Gauss",
+            "Henry",
+            "Watt"
+        ]
+    },
+    {
+        "category": "Science%20%26%20Nature",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "Which%20desert%20is%20the%20only%20desert%20in%20the%20world%20where%20the%20%22Saguaro%22%20cactus%20grows%20indigenously%3F",
+        "correct_answer": "The%20Sonoran%20Desert",
+        "incorrect_answers": [
+            "The%20Gobi%20Desert",
+            "The%20Yuma%20Desert",
+            "The%20Arabian%20Desert"
+        ]
+    },
+    {
+        "category": "Science%20%26%20Nature",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "In%20Psychology%2C%20which%20need%20appears%20highest%20in%20the%20%22Maslow%27s%20hierarchy%20of%20needs%22%20pyramid%3F",
+        "correct_answer": "Esteem",
+        "incorrect_answers": [
+            "Love",
+            "Safety",
+            "Physiological"
+        ]
+    },
+    {
+        "category": "Science%20%26%20Nature",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "What%20are%20human%20nails%20made%20of%3F",
+        "correct_answer": "Keratin",
+        "incorrect_answers": [
+            "Bone",
+            "Chitin",
+            "Calcium"
+        ]
+    },
+    {
+        "category": "Science%20%26%20Nature",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "The%20Sun%20consists%20of%20mostly%20which%20two%20elements%3F",
+        "correct_answer": "Hydrogen%20%26%20Helium",
+        "incorrect_answers": [
+            "Hydrogen%20%26%20Nitrogen",
+            "Carbon%20%26%20Nitrogen",
+            "Carbon%20%26%20Helium"
+        ]
+    },
+    {
+        "category": "Science%20%26%20Nature",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "What%20is%20the%20largest%20living%20organism%20currently%20known%20to%20man%3F",
+        "correct_answer": "Honey%20Fungus",
+        "incorrect_answers": [
+            "Blue%20Whale",
+            "Redwood%20Tree",
+            "The%20Coral%20Reef"
+        ]
+    },
+    {
+        "category": "Science%20%26%20Nature",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "On%20which%20mission%20did%20the%20Space%20Shuttle%20Columbia%20break%20up%20upon%20re-entry%3F",
+        "correct_answer": "STS-107",
+        "incorrect_answers": [
+            "STS-51-L",
+            "STS-61-C",
+            "STS-109"
+        ]
+    },
+    {
+        "category": "Science%20%26%20Nature",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "What%20part%20of%20the%20brain%20takes%20its%20name%20from%20the%20Greek%20for%20seahorse%3F",
+        "correct_answer": "Hippocampus",
+        "incorrect_answers": [
+            "Cerebellum",
+            "Thalamus",
+            "Amygdala"
+        ]
+    },
+    {
+        "category": "Science%20%26%20Nature",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "Which%20planet%20did%20the%20%22Viking%201%22%20spacecraft%20send%20surface%20images%20of%2C%20starting%20in%201976%3F",
+        "correct_answer": "Mars",
+        "incorrect_answers": [
+            "Saturn",
+            "Jupiter",
+            "Venus"
+        ]
+    }
+]

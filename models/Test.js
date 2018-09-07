@@ -1,8 +1,7 @@
 const mongoose = require('mongoose');
-const Quiz = require('./Quiz');
 
 const testSchema = new mongoose.Schema({
-    categoryID : Number,
+    category : String,
     questionList : [
         {
             type : mongoose.Schema.Types.ObjectId,

@@ -22,7 +22,11 @@ mongoose.connect(
 
 const indexRouter = require("./routes/index");
 const authRouter = require("./routes/auth");
-const registerRouter = require("./routes/register");
+const testRouter = require('./routes/test');
+
+//Populate DB
+require('./seeds/InitDB').initDbWithJSONData();
+require('./seeds/InitDB').populateTests();
 
 const app = express();
 
@@ -37,8 +41,10 @@ app.use(cors());
 app.use(passport.initialize());
 
 app.use("/auth", authRouter);
-app.use("/register", registerRouter);
+app.use("/tests",testRouter);
 app.use("/", passport.authenticate("jwt", { session: false }), indexRouter);
+
+
 
 // catch 404 and forward to error handler
 app.use(function(req, res, next) {

@@ -1,0 +1,122 @@
+[
+    {
+        "category": "Science%3A%20Mathematics",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "In%20a%20complete%20graph%20G%2C%20which%20has%2012%20vertices%2C%20how%20many%20edges%20are%20there%3F",
+        "correct_answer": "66",
+        "incorrect_answers": [
+            "67",
+            "34",
+            "11"
+        ]
+    },
+    {
+        "category": "Science%3A%20Mathematics",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "In%20base%202%2C%20what%20is%201%20%2B%201%3F",
+        "correct_answer": "10",
+        "incorrect_answers": [
+            "Two%20%282%29",
+            "01",
+            "11"
+        ]
+    },
+    {
+        "category": "Science%3A%20Mathematics",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "In%20the%20hexadecimal%20system%2C%20what%20number%20comes%20after%209%3F",
+        "correct_answer": "The%20Letter%20A",
+        "incorrect_answers": [
+            "10",
+            "The%20Number%200",
+            "16"
+        ]
+    },
+    {
+        "category": "Science%3A%20Mathematics",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "How%20many%20zeros%20are%20there%20in%20a%20googol%3F",
+        "correct_answer": "100",
+        "incorrect_answers": [
+            "10",
+            "1%2C000",
+            "1%2C000%2C000"
+        ]
+    },
+    {
+        "category": "Science%3A%20Mathematics",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "What%20is%20the%20area%20of%20a%20circle%20with%20a%20diameter%20of%2020%20inches%20if%20%CF%80%3D%203.1415%3F",
+        "correct_answer": "314.15%20Inches",
+        "incorrect_answers": [
+            "380.1215%20Inches",
+            "3141.5%20Inches",
+            "1256.6%20Inches"
+        ]
+    },
+    {
+        "category": "Science%3A%20Mathematics",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "What%20are%20the%20first%206%20digits%20of%20the%20number%20%22Pi%22%3F",
+        "correct_answer": "3.14159",
+        "incorrect_answers": [
+            "3.14169",
+            "3.12423",
+            "3.25812"
+        ]
+    },
+    {
+        "category": "Science%3A%20Mathematics",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "What%20is%20the%20Roman%20numeral%20for%20500%3F",
+        "correct_answer": "D",
+        "incorrect_answers": [
+            "L",
+            "C",
+            "X"
+        ]
+    },
+    {
+        "category": "Science%3A%20Mathematics",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "What%20is%20the%20first%20Mersenne%20prime%20over%201000%3F",
+        "correct_answer": "1279",
+        "incorrect_answers": [
+            "2203",
+            "1009",
+            "1069"
+        ]
+    },
+    {
+        "category": "Science%3A%20Mathematics",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "To%20the%20nearest%20whole%20number%2C%20how%20many%20radians%20are%20in%20a%20whole%20circle%3F",
+        "correct_answer": "6",
+        "incorrect_answers": [
+            "3",
+            "4",
+            "5"
+        ]
+    },
+    {
+        "category": "Science%3A%20Mathematics",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "What%20Greek%20letter%20is%20used%20to%20signify%20summation%3F",
+        "correct_answer": "Sigma",
+        "incorrect_answers": [
+            "Delta",
+            "Alpha",
+            "Omega"
+        ]
+    }
+]

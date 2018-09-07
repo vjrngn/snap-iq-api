@@ -13,7 +13,7 @@ describe("user registration", () => {
 
   test("it registers a new user", done => {
     request(app)
-      .post("/register")
+      .post("/auth/register")
       .send({
         email: "john@example.com",
         password: "12345",
@@ -22,7 +22,7 @@ describe("user registration", () => {
       .then(response => response.body)
       .then(body => {
         expect(body.success).toBe(true);
-        User.find({}, (err, users) => {
+        User.find({ email: "john@example.com" }, (err, users) => {
           expect(users.length).toBe(1);
 
           done();
