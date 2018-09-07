@@ -4,7 +4,7 @@
   "private": true,
   "scripts": {
     "start": "node ./bin/www",
-    "test": "jest"
+    "test": "jest __tests__"
   },
   "dependencies": {
     "bcrypt": "^3.0.0",
